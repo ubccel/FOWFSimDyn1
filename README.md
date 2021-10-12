@@ -17,4 +17,3 @@ Please read 'user_manual.pdf' for detailed instructions.
 
 ### Reference
 -  Ali  C.  Kheirabadi  and  Ryozo  Nagamune.  “A  low-fidelity  dynamic  wind  farm  modelfor simulating time-varying wind conditions and floating platform motion”. In:OceanEngineering234 (2021), p.109313. issn: 0029-8018. doi:https://doi.org/10.1016/j.oceaneng.2021.109313. url:https://www.sciencedirect.com/science/article/pii/S0029801821007290.
-- A. Robertson et al. “Definition of the Semisubmersible Floating System for Phase II ofOC4”. In: (Sept. 2014).doi:10.2172/1155123.url:https://www.osti.gov/biblio/1155123.
