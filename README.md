@@ -2,7 +2,7 @@
 
 This model is used for simulating the behavior of a 5MW wind farm with users specifying the parameters and input conditions.
 <br />
-With this model, users can observe the motion ofthe turbines and power outputs for a 5MW wind farm with yaw angle, blade pitch angle andgenerator torque as the model inputs.
+With this model, users can observe the motion of the turbines and power outputs for a 5MW wind farm with yaw angle, blade pitch angle andgenerator torque as the model inputs.
 
 ### Important files
 
